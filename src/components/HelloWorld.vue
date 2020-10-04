@@ -52,7 +52,7 @@ export default {
             ? {
                 left: "dayGridMonth,timeGridWeek,timeGridDay",
                 center: "title",
-                right: "prevYear,prev,today,next,nextYear",
+                right: "prev,today,next",
               }
             : {
                 left: "dayGridMonth,timeGridWeek,timeGridDay",
